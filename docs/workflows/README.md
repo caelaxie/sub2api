@@ -17,6 +17,7 @@ Start here:
 - [OpenAI gateway requests](openai-gateway-requests.md)
 - [Gemini and Antigravity gateway requests](gemini-and-antigravity-gateway-requests.md)
 - [Account selection and sticky sessions](account-selection-and-sticky-sessions.md)
+- [Account pooling](account-pooling.md)
 - [Usage billing and logs](usage-billing-and-logs.md)
 - [Error failover and error passthrough](error-failover-and-error-passthrough.md)
 - [Admin user management](admin-user-management.md)
